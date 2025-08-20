@@ -35,6 +35,7 @@ i made a simple messagebox program in C++ which we will backdoor
 think of it like its a **Photoshop 2025 software**
 
 ---
+CODE:
 
     #include<Windows.h>
     
@@ -42,9 +43,6 @@ think of it like its a **Photoshop 2025 software**
 	    MessageBoxW(NULL,L"Photoshop.exe",L"Photoshop is now running",MB_OK);
 	    return 0;
 	   }
-
-
-<img width="3548" height="1496" alt="ray-so-export(1)" src="https://github.com/user-attachments/assets/b90c7265-29ff-4a6b-b8ef-1d8811c34d4d" />
 
 ---
 **Output of this program**:
