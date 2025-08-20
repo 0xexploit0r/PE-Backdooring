@@ -23,17 +23,17 @@ hacker can convert your game's exe to a malware can hack you.
 And also this is **how people get hacked when they download crack software or games**.
 ---
 
-## Video Explanation ( if you want) 
-
+## Video Explanation ( if you want)
 I have explained everything on my **Youtube Channel**  [Watch Video!](https://youtu.be/SH95uXG-RXY?si=vdffzp9UJllloRAZ)
+
 ---
 
 ## Generating a PE for Testing
-
 Ok Now First we need a PE file to experiment on right? 
 
 i made a simple messagebox program in C++ which we will backdoor
 think of it like its a **Photoshop 2025 software**
+
 ---
 
     #include<Windows.h>
