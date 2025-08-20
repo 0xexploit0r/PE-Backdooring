@@ -10,7 +10,7 @@
 
 ## My Introduction
 Hi my name is Aryan, im a cyber security student, just a 17 year old kid who loves Hacking and Programming, i love RE | Malware Dev and Analysis | Game Hacking etc. 
----
+
 
 ## Introduction to PE-Backdooring 
 
@@ -19,8 +19,8 @@ Hi my name is Aryan, im a cyber security student, just a 17 year old kid who lov
 
 So Basic idea of this repo is to make you understand how any hacker can plant a backdoor in your daily use softwares, So if for example you play **Call Of Duty Warzone** every day or any other game like **Battlefield 6** 
 hacker can convert your game's exe to a malware can hack you.
-
 And also this is **how people get hacked when they download crack software or games**.
+
 ---
 
 ## Video Explanation ( if you want)
