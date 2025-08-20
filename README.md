@@ -50,6 +50,10 @@ CODE:
 
 <img width="240" height="170" alt="Screenshot 2025-08-20 205019" src="https://github.com/user-attachments/assets/52b5c10a-b347-4d46-95b8-f58680b8bdb9" />
 
+## Generating A Shellcode(Malware)
+
+Now 
+
 
 
 
