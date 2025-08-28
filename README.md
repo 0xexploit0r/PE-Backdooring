@@ -1,14 +1,14 @@
 
 
 
-# PE-Backdooring
+# 🔷 PE-Backdooring
 
  - This Repository Will Teach You How You Can Backdoor Any PE File 
  - How You Can Convert Simple PE into a reverse shell
  -  How You Can Craft Trojans With Shellcode
 ---
 
-## My Introduction
+## 🔷 My Introduction
 Hi my name is Aryan, im a cyber security student, just a 17 year old kid who loves Hacking and Programming, i love RE | Malware Dev and Analysis | Game Hacking etc. 
 
 
@@ -76,7 +76,7 @@ COMMAND:
 
 ---
 
-###Step 3: Download this bin file to your windows machine
+### Step 3: Download this bin file to your windows machine
 
 
 
