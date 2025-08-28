@@ -78,5 +78,43 @@ COMMAND:
 
 ### 🔸 Step 3: Download this bin file to your windows machine
 
+## 💉 Planting Our Payload Inside The PE File.
+So You've Came This Far huh?. GOOD!! now we execute last opreation i promise this is last one.
+
+
+**We will need x32dbg for this and some basic assembly**
+
+Open x32dbg and import the PE File
+
+
+Find The Entry POINT
+
+
+Copy address of Entry Point in notepad
+
+
+Go to the Code Cave
+
+
+Copy address of starting of code cave
+
+
+Now Edit the first To Bytes of cove cave with pushad and push fd
+
+
+paste the shellcode with hex editor
+
+leave one null byte to tell PE where shellcode ends
+
+now end with popad and popfd
+
+now edit next null byte with the command of entry point
+
+next byte will me the jmp to address of the next command after shellcode
+
+patch your pe
+
+run as admin
+
 
 
