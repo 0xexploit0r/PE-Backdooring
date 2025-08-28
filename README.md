@@ -61,13 +61,17 @@ Step 1: Open msfconsole in kali linux or any other distro
 Step 2: 
 ---
 COMMAND:
-	//Open msfconsole
- 	msfconsole
 
+ 	//Opens msfconsole
+	msfconsole
+
+  	//Mention payload as Shellcode
   	use payload/windows/exec
-	
+
+ 	//Set command with will execute
    	set CMD calc.exe
 
+	//generate shellcode
  	generate -f raw -o shellocde.bin
 
 ---
