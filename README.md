@@ -12,7 +12,7 @@
 Hi my name is Aryan, im a cyber security student, just a 17 year old kid who loves Hacking and Programming, i love RE | Malware Dev and Analysis | Game Hacking etc. 
 
 
-## Introduction to PE-Backdooring 
+## 🧪 Introduction to PE-Backdooring 
 
 **What is PE** - *PE is (Portable Executable) an executable file format which you typically see in windows .exe .dll .scr*
 **What is Backdoor** - *Backdoor or backdooring is a method used for getting unauthorized access to any computer. Basically You can control someones computer from your computer without them knowing about it.*
@@ -23,12 +23,12 @@ And also this is **how people get hacked when they download crack software or ga
 
 ---
 
-## Video Explanation ( if you want)
+## ▶️ Video Explanation ( if you want)
 I have explained everything on my **Youtube Channel**  [Watch Video!](https://youtu.be/SH95uXG-RXY?si=vdffzp9UJllloRAZ)
 
 ---
 
-## Generating a PE for Testing
+## 🔰 Generating a PE for Testing
 Ok Now First we need a PE file to experiment on right? 
 
 i made a simple messagebox program in C++ which we will backdoor
@@ -50,7 +50,7 @@ CODE:
 
 <img width="240" height="170" alt="Screenshot 2025-08-20 205019" src="https://github.com/user-attachments/assets/52b5c10a-b347-4d46-95b8-f58680b8bdb9" />
 
-## Generating A Shellcode(Malware)
+## ☠️ Generating A Shellcode(Malware)
 
 Now we will make our payload basiclly with will give us the shell
 but right now for testing we will make a shellcode to open calculator in windows
