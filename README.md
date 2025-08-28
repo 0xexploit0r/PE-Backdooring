@@ -35,7 +35,7 @@ i made a simple messagebox program in C++ which we will backdoor
 think of it like its a **Photoshop 2025 software**
 
 ---
-CODE:
+⚙️ CODE:
 
     #include<Windows.h>
     
@@ -45,7 +45,7 @@ CODE:
 	   }
 
 ---
-**Output of this program**:
+**⚙️ Output of this program**:
 
 
 <img width="240" height="170" alt="Screenshot 2025-08-20 205019" src="https://github.com/user-attachments/assets/52b5c10a-b347-4d46-95b8-f58680b8bdb9" />
