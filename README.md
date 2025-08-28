@@ -56,9 +56,9 @@ Now we will make our payload basiclly with will give us the shell
 but right now for testing we will make a shellcode to open calculator in windows
 
 
-Step 1: Open msfconsole in kali linux or any other distro
+### Step 1: Open msfconsole in kali linux or any other distro
 
-Step 2: 
+### Step 2: 
 ---
 COMMAND:
 
@@ -76,7 +76,7 @@ COMMAND:
 
 ---
 
-Step 3: Download this bin file to your windows machine
+###Step 3: Download this bin file to your windows machine
 
 
 
